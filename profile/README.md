@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://ofam.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ofam.dev/img/o-family/logo-dark.svg">
-    <img src="https://ofam.dev/img/o-family/logo-light.svg" alt="o-family" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ofam.dev/img/o-family/logo-animated-dark.svg">
+    <img src="https://ofam.dev/img/o-family/logo-animated-light.svg" alt="o-family" width="360">
   </picture></a>
 </p>
 
