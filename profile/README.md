@@ -21,6 +21,7 @@ Modal, Vim-like terminal tools and libraries in Go, built on an extensible comma
   <a href="https://github.com/ofamtools/o-questions" title="o-questions"><img src="https://ofam.dev/img/o-questions/icon-animated.svg" width="40" height="40" alt="o-questions"></a>
   <a href="https://github.com/ofamtools/o-lane" title="o-lane"><img src="https://ofam.dev/img/o-lane/icon-animated.svg" width="40" height="40" alt="o-lane"></a>
   <a href="https://github.com/ofamtools/o-gh" title="o-gh"><img src="https://ofam.dev/img/o-gh/icon-animated.svg" width="40" height="40" alt="o-gh"></a>
+  <a href="https://github.com/ofamtools/o-services" title="o-services"><img src="https://ofam.dev/img/o-services/icon-animated.svg" width="40" height="40" alt="o-services"></a>
   <a href="https://github.com/ofamtools/monogatari" title="monogatari"><img src="https://ofam.dev/img/monogatari/icon-animated.svg" width="40" height="40" alt="monogatari"></a>
   <a href="https://github.com/ofamtools/o-json" title="o-json"><img src="https://ofam.dev/img/o-json/icon-animated.svg" width="40" height="40" alt="o-json"></a>
   <a href="https://github.com/ofamtools/nabe" title="nabe"><img src="https://ofam.dev/img/nabe/icon-animated.svg" width="40" height="40" alt="nabe"></a>
@@ -156,6 +157,17 @@ GitHub pull requests on one page: yours, the ones waiting on your review, the on
 ```sh
 go install ofam.dev/oden/cmd/o@latest
 go install ofam.dev/o-gh@latest
+```
+
+### <img src="https://ofam.dev/img/o-services/icon-animated.svg" width="28" height="28" alt=""> o-services
+
+Local TCP listeners and bound UDP endpoints with PIDs, working directories and verified pane, agent and project provenance, in a CLI and standalone TUI.
+
+[ofam.dev](https://ofam.dev/#project-o-services) · [GitHub](https://github.com/ofamtools/o-services)
+
+```sh
+go install ofam.dev/oden/cmd/o@latest
+go install ofam.dev/o-services@latest
 ```
 
 ### <img src="https://ofam.dev/img/o-md/icon-animated.svg" width="28" height="28" alt=""> o-md
