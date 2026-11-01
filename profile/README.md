@@ -30,7 +30,7 @@ Modal, Vim-like terminal tools and libraries in Go, built on an extensible comma
   <a href="https://github.com/ofamtools/o-fleet" title="o-fleet"><img src="https://ofam.dev/img/o-fleet/icon-animated.svg" width="40" height="40" alt="o-fleet"></a>
   <a href="https://github.com/ofamtools/o-md" title="o-md"><img src="https://ofam.dev/img/o-md/icon-animated.svg" width="40" height="40" alt="o-md"></a>
   <a href="https://github.com/ofamtools/o-mermaid" title="o-mermaid"><img src="https://ofam.dev/img/o-mermaid/icon-animated.svg" width="40" height="40" alt="o-mermaid"></a>
-  <a href="https://github.com/ofamtools/o-modal" title="o-modal"><img src="https://ofam.dev/img/o-modal/icon-animated.svg" width="40" height="40" alt="o-modal"></a>
+  <a href="https://github.com/ofamtools/o-modes" title="o-modes"><img src="https://ofam.dev/img/o-modes/icon-animated.svg" width="40" height="40" alt="o-modes"></a>
 </p>
 
 ## Start with the o command
@@ -90,14 +90,14 @@ An ochazuke testing library: stories are JSON keystroke scripts played headless 
 go get ofam.dev/monogatari@latest
 ```
 
-### <img src="https://ofam.dev/img/o-modal/icon-animated.svg" width="28" height="28" alt=""> o-modal
+### <img src="https://ofam.dev/img/o-modes/icon-animated.svg" width="28" height="28" alt=""> o-modes
 
 A proof of concept: a modal key engine for Go. Keys in, steps out; the host decides what runs.
 
-[ofam.dev](https://ofam.dev/#project-o-modal) · [GitHub](https://github.com/ofamtools/o-modal)
+[ofam.dev](https://ofam.dev/#project-o-modes) · [GitHub](https://github.com/ofamtools/o-modes)
 
 ```sh
-go get ofam.dev/o-modal/modal@latest
+go get ofam.dev/o-modes/modal@latest
 ```
 
 ## Apps
