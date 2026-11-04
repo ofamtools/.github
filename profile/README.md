@@ -24,7 +24,6 @@ Modal, Vim-like terminal tools and libraries in Go, built on an extensible comma
   <a href="https://github.com/ofamtools/o-services" title="o-services"><img src="https://ofam.dev/img/o-services/icon-animated.svg" width="40" height="40" alt="o-services"></a>
   <a href="https://github.com/ofamtools/monogatari" title="monogatari"><img src="https://ofam.dev/img/monogatari/icon-animated.svg" width="40" height="40" alt="monogatari"></a>
   <a href="https://github.com/ofamtools/o-json" title="o-json"><img src="https://ofam.dev/img/o-json/icon-animated.svg" width="40" height="40" alt="o-json"></a>
-  <a href="https://github.com/ofamtools/nabe" title="nabe"><img src="https://ofam.dev/img/nabe/icon-animated.svg" width="40" height="40" alt="nabe"></a>
   <a href="https://github.com/ofamtools/o-csv" title="o-csv"><img src="https://ofam.dev/img/o-csv/icon-animated.svg" width="40" height="40" alt="o-csv"></a>
   <a href="https://github.com/ofamtools/o-df" title="o-df"><img src="https://ofam.dev/img/o-df/icon-animated.svg" width="40" height="40" alt="o-df"></a>
   <a href="https://github.com/ofamtools/o-ai" title="o-ai"><img src="https://ofam.dev/img/o-ai/icon-animated.svg" width="40" height="40" alt="o-ai"></a>
@@ -247,16 +246,4 @@ Converts Mermaid diagrams to SVG, PNG and HTML with the embedded Beautiful Merma
 ```sh
 go install ofam.dev/oden/cmd/o@latest
 go install ofam.dev/o-mermaid@latest
-```
-
-## Hosts
-
-### <img src="https://ofam.dev/img/nabe/icon-animated.svg" width="28" height="28" alt=""> nabe
-
-A host for ochazuke extensions (`o nabe`, `o tui`): any executable that answers `catalog` becomes a page.
-
-[ofam.dev](https://ofam.dev/#project-nabe) · [GitHub](https://github.com/ofamtools/nabe)
-
-```sh
-go install ofam.dev/nabe@latest
 ```
